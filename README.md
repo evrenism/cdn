@@ -1,0 +1,2 @@
+# cdn
+basic CDN support
